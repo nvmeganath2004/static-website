@@ -4433,11 +4433,11 @@ body {
     border-bottom-color: #ffffff; }
   
   .navbar-brand {
-    padding: 20px 0px;
+    padding: 0px 0px;
     margin-right: 0; }
   
   .navbar-brand img {
-    height: 40px; }
+    height: 4rem; }
   
   .navbar .navbar-brand {
     color: #ffffff;
